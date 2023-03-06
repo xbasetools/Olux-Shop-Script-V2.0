@@ -1,7 +1,7 @@
 <?php
 
 
-$dbcon = mysqli_connect("localhost","artmir","xbase_leet","") or die( connection'); 
+$dbcon = mysqli_connect("localhost","xbase_leet","xbase_leet","xbase_leet") or die( connection'); 
 
 
 ?>
